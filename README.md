@@ -1,6 +1,6 @@
 # Welcome to Zwell's GitHub Page!
 
-![Zwell Logo](URL-to-Zwell-Logo)
+(https://zwellhome.com/wp-content/plugins/phastpress/phast.php?service=images&src=https%3A%2F%2Fzwellhome.com%2Fwp-content%2Fuploads%2F2020%2F06%2FZwell-Logo-White-Font.png)
 
 ## About Zwell
 
@@ -34,9 +34,8 @@ We welcome contributions from developers, energy experts, and enthusiasts in the
 
 ## Contact Us
 
-- **Email**: [contact@zwellhome.com](mailto:contact@zwellhome.com)
+- **Email**: [help@zwellhome.com](mailto:help@zwellhome.com)
 - **Website**: [www.zwellhome.com](http://www.zwellhome.com)
-- **Social Media**: [Twitter](Twitter-Link) | [Facebook](Facebook-Link) | [LinkedIn](LinkedIn-Link)
 
 ## Support
 
