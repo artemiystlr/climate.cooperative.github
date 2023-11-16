@@ -44,5 +44,3 @@ If you like our work and want to support us, consider donating to the Zwell Comm
 ---
 
 Thank you for visiting our GitHub page. Together, we can make every home energy-efficient and carbon-neutral!
-
-# .github
