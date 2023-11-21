@@ -1,6 +1,6 @@
 # Welcome to Zwell's GitHub Page!
 
-(https://zwellhome.com/wp-content/plugins/phastpress/phast.php?service=images&src=https%3A%2F%2Fzwellhome.com%2Fwp-content%2Fuploads%2F2020%2F06%2FZwell-Logo-White-Font.png)
+![zwell logo](https://zwellhome.com/wp-content/plugins/phastpress/phast.php?service=images&src=https%3A%2F%2Fzwellhome.com%2Fwp-content%2Fuploads%2F2020%2F06%2FZwell-Logo-White-Font.png)
 
 ## About Zwell
 
