@@ -1,7 +1,5 @@
 # Welcome to Zwell Open Source
 
-**Zwell: Advancing Sustainable Energy Solutions Together**
-
 Welcome to the Zwell Open Source project! As a social purpose corporation, Zwell is dedicated to advancing carbon-neutral, sustainable energy solutions for homes. Our mission is to foster diverse, healthy communities by providing innovative and accessible energy efficiency tools and services.
 
 Our project is more than just software; it's a movement. We believe in the power of collaboration to tackle the monumental challenge of climate change. No single person, organization, or country can solve this crisis alone—it demands a global community of diverse backgrounds, ideas, and talents. Zwell Open Source is our platform to unite everyone—regardless of origin, belief, or experience—in making a significant, positive impact on our planet.
