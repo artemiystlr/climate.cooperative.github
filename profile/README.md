@@ -19,7 +19,7 @@ Though we are in the early stages of building our community, we envision it grow
 - **Join the Conversation**: Participate in discussions, share your experiences, and connect with like-minded individuals dedicated to our cause.
 
 ### **Here is a List of Our Current Projects**
-- **Home Energy Database & API**: The Residential Home Energy Database & API consolidates diverse data into a unified platform for accurately calculating home carbon footprints, considering factors like local energy grids, weather, and home attributes. It aims to provide crucial data for energy savings tools, detailed analyses, and visualizations, empowering stakeholders to reduce residential energy consumption and promote sustainable solutions.
+- **[Home Energy Database & API](https://github.com/Zwell-Home/home-energy-data)**: The Residential Home Energy Database & API consolidates diverse data into a unified platform for accurately calculating home carbon footprints, considering factors like local energy grids, weather, and home attributes. It aims to provide crucial data for energy savings tools, detailed analyses, and visualizations, empowering stakeholders to reduce residential energy consumption and promote sustainable solutions.
 
 ### **Leadership and Maintenance**
 
