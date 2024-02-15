@@ -18,6 +18,9 @@ Though we are in the early stages of building our community, we envision it grow
 - **Share Your Ideas**: Have a vision for new features or ways to improve our project? We're all ears.
 - **Join the Conversation**: Participate in discussions, share your experiences, and connect with like-minded individuals dedicated to our cause.
 
+### **Here is a List of Our Current Projects**
+- **Home Energy Database & API**: The Residential Home Energy Database & API consolidates diverse data into a unified platform for accurately calculating home carbon footprints, considering factors like local energy grids, weather, and home attributes. It aims to provide crucial data for energy savings tools, detailed analyses, and visualizations, empowering stakeholders to reduce residential energy consumption and promote sustainable solutions.
+
 ### **Leadership and Maintenance**
 
 In the spirit of open source and community-driven development, we welcome contributors who wish to take on leadership roles. Whether you're reviewing pull requests, managing issues, or guiding newcomers, your efforts help us maintain the quality and integrity of our project. As our community grows, so will opportunities for you to become a maintainer or even join our core leadership team.
