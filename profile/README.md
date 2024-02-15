@@ -30,8 +30,8 @@ We're just getting started, and your input is invaluable in shaping the future o
 
 ## **Join Us**
 
-Zwell is more than a project—it's a mission to empower communities with the tools and knowledge to live sustainably. Whether you're coding, writing, designing, or simply spreading the word, your contribution is a step towards a more sustainable future for all.
+Zwell is more than a project—it's a mission to empower communities with the tools and knowledge to live sustainably. Our journey towards a sustainable future is paved with innovation, collaboration, and a commitment to our core values. As we invite you to contribute—whether through coding, writing, designing, or simply spreading the word—we also urge you to familiarize yourself with our [Code of Conduct](https://zwellhome.com/open-source-code-of-conduct/). This Code of Conduct reflects our dedication to fostering an open, inclusive, and respectful community, ensuring that everyone, regardless of background or experience, can contribute to making a significant, positive impact on our planet.
 
-See our [Code of Conduct](https://zwellhome.com/open-source-code-of-conduct/)
+Your contribution is a step towards a more sustainable future for all. By joining us, you become part of a global community united in the urgent mission to combat climate change. Together, we can create innovative solutions that not only address environmental challenges but also promote equity, inclusivity, and ethical responsibility.
 
 Let's build a cleaner, greener world together. Welcome to Zwell Open Source.
