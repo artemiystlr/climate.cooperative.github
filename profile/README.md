@@ -1,4 +1,3 @@
-```markdown
 # Welcome to Zwell Open Source
 
 **Zwell: Advancing Sustainable Energy Solutions Together**
