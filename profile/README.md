@@ -32,6 +32,6 @@ We're just getting started, and your input is invaluable in shaping the future o
 
 Zwell is more than a project—it's a mission to empower communities with the tools and knowledge to live sustainably. Whether you're coding, writing, designing, or simply spreading the word, your contribution is a step towards a more sustainable future for all.
 
-See our [Code of Conduct][https://zwellhome.com/open-source-code-of-conduct/]
+See our [Code of Conduct](https://zwellhome.com/open-source-code-of-conduct/)
 
 Let's build a cleaner, greener world together. Welcome to Zwell Open Source.
