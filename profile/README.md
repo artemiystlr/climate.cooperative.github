@@ -39,7 +39,8 @@ In the spirit of open source and community-driven development, we welcome contri
 
 ### **Learning and Growth**
 
-We believe in the continuous growth of our community members. Whether you're a seasoned professional or new to the world of sustainable energy solutions, Zwell offers resources to enhance your skills and knowledge. Stay tuned for webinars, workshops, and educational materials designed to empower you.
+We believe in the continuous growth of our community members. Whether you're a seasoned professional or new to the world of sustainable energy solutions, the Climate Cooperative seeks to provide resources to enhance your skills and knowledge. Stay tuned for webinars, workshops, and educational materials designed to empower you.
+
 
 ## **Projects & Applications**
 
