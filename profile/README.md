@@ -37,17 +37,12 @@ We're just beginning to build our community, but we envision it becoming a vibra
 
 - **[Home Energy Assessment Database & API](https://github.com/Zwell-Home/home-energy-assessment-database)**: The Home Energy Assessment Database & API consolidates diverse data into a unified platform for accurately calculating home carbon footprints, considering factors like local energy grids, local climate, and home appliances and attributes. A live proof-of-concept application can be found here: **[Home Energy Audit](https://zwellhome.com/)**. The database and API aim to provide crucial data for energy savings tools, detailed analyses, and visualizations, empowering stakeholders to reduce residential energy consumption and promote sustainable solutions.
 
-- **[Carbon Offset Marketplace](https://github.com/climate-cooperative/carbon-offset-marketplace)**:  Providing a direct to consumer platform for purchasing carbon offsets by financing home energy reduction projects. Requirements would be standards and processes required for recipients of the offset funds in order to guarantee new, incremental carbon reductions with a high certainty. The marketplace would provide access to community sourced carbon offsets that have both social and environmental benefits, and in turn would provide financial incentive for homeowners, contractors, or developers to make environmentally beneficial retrofits in homes.
-  - **Sub Project - [Live Carbon Reduction Counter](https://github.com/climate-cooperative/live-carbon-reduction-counter)**: a tool for professionals to recieve a collective total of attributable carbon reductions from their work or installations, potentially for display on their website.
+### **New Ideas and Project Proposals**
 
-- **Home Appliances & Mechanical Systems Database:** This module allows consumers to upload appliance information into a home profile simply by taking a picture, supported by a comprehensive database detailing appliance lifespan. It includes a recommendation system that suggests the best products based on remaining useful life, retrofit practicality, and cost-effective CO2 reduction, alongside features for managing home profiles.
-
-- **Home Energy Contractor Database:** The Home Energy Contractor Database offers a comprehensive platform for contractors, featuring profile pages, a search function, and an aggregation of reviews. Contractors can manage their profiles, showcasing pictures, logos, descriptions, hours, contact details, and licensing information, enhancing visibility and trust with potential customers.
-
-- **Home Energy Audit & Recommendations:** This software tool provides precise recommendations for products, detailing applicable incentives and tax rebates to encourage energy-efficient upgrades. It's designed to simplify the process of making homes more energy-efficient by providing tailored advice and financial benefits information.
+Check out [Dicussions](https://github.com/orgs/climate-cooperative/discussions) to propose or contribute to the planning of new projects!
 
 > [!NOTE]
-> Our goal is to develop solutions to support the transition to net zero carbon emissions from home energy consumption. There may be—and almost certainly are—many more great ideas not yet listed here. If you've got an idea for a software application that can make an impact on that goal, start a conversation in [Dicussions](https://github.com/orgs/climate-cooperative/discussions)!
+> Our goal is to develop solutions to support the transition to net zero carbon emissions from home energy consumption. There may be—and almost certainly are—many more great ideas not yet proposed here. If you've got an idea for a software application that could make an impact on that goal, start a conversation in [Dicussions](https://github.com/orgs/climate-cooperative/discussions)!
 
 ### **Leadership and Maintenance**
 
