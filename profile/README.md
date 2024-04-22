@@ -58,7 +58,7 @@ Our goal is to develop solutions to support the transition to net zero carbon em
 
 ## **Stay Connected**
 
-We're just getting started, and your input is invaluable in shaping the future of Zwell Open Source. Connect with us through our forthcoming community platforms, such as forums, social media, and direct channels for communication. Your voice matters, and together, we can make a difference in the fight against climate change.
+We're just getting started, and your input is invaluable in shaping the future of the Climate Cooperative. Connect with us through our forthcoming community platforms, such as forums, social media, and direct channels for communication. Your voice matters, and together, we can make a difference in the fight against climate change.
 
 ## **Code of Conduct & Core Values**
 
