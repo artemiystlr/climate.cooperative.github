@@ -7,9 +7,9 @@ The Climate Cooperative open source project is more than just software; it's a m
 In particular, this project is dedicated to advancing carbon-neutral, sustainable energy solutions for homes. Residential energy use is estimated to account for [20% of all green house gas emissions in the US](https://www.pnas.org/doi/10.1073/pnas.1922205117). To meet the targets set by the Paris Climate Agreement—a 45% emissions reduction by 2030 and reaching net zero by 2050—eliminating these residential energy emissions will be crcuial. And because home appliances often have lifespans of decades, this residential technology transition needs to begin immediately.
 
 We believe that the technology exists today for the residential sector to meet those benchmarks on time, but several obstacles stand in the way of that transition. We have identified 3 major obstacles that we believe must be addressed to acheive those goals in time:
-1. Education - People don't know what impact their home has on carbon emissions, and they're not aware of the choices they can make to change that.
-2. "The Green Premium" - Upgrading to electric and energy efficient alternatives often cost significantly more than like-for-like replacements of old technology.
-3. Workforce - Installation of newer technologies often requires special training and there are not currently enough trained installers to meet the hypothetical demands of a worldwide residential energy transition over the next decade.
+1. **Education** - People don't know what impact their home has on carbon emissions, and they're not aware of the choices they can make to change that.
+2. **"The Green Premium"** - Upgrading to electric and energy efficient alternatives often cost significantly more than like-for-like replacements of old technology.
+3. **Workforce** - Installation of newer technologies often requires special training and there are not currently enough trained installers to meet the hypothetical demands of a worldwide residential energy transition over the next decade.
 
 Through the climate cooperative, we aim to unite brilliant and passionate individuals from varying domains and backgrounds to collaborate on solutions to these problems.
 
