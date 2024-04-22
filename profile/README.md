@@ -47,7 +47,7 @@ We're just beginning to build our community, but we envision it becoming a vibra
 - **Home Energy Contractor Database:** The Home Energy Contractor Database offers a comprehensive platform for contractors, featuring profile pages, a search function, and an aggregation of reviews. Contractors can manage their profiles, showcasing pictures, logos, descriptions, hours, contact details, and licensing information, enhancing visibility and trust with potential customers.
 
 > [!NOTE]
-> Our goal is to support the transition to net zero carbon emissions from home energy consumption. There may be—and almost certainly are—many more great ideas not yet listed here. If you've got an idea for a software application to contribute to the goal, share it in Dicussions!
+> Our goal is to develop solutions to support the transition to net zero carbon emissions from home energy consumption. There may be—and almost certainly are—many more great ideas not yet listed here. If you've got an idea for a software application to contribute to the goal, share it in [Dicussions](https://github.com/orgs/climate-cooperative/discussions)!
 
 ### **Leadership and Maintenance**
 
