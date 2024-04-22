@@ -1,8 +1,19 @@
 # Welcome to the Climate Cooperative
 
-The Climate Cooperative open source project is more than just software—it's a movement! We believe in the power of collaboration to tackle the monumental challenge of climate change. No single person, organization, or country can solve this crisis alone. It demands a global community of diverse backgrounds, ideas, and talents.
+The Climate Cooperative open source project is more than just software; it's a movement! We believe in the power of collaboration to tackle the monumental challenge of climate change. No single person, organization, or country can solve this crisis alone. It demands a global community of diverse backgrounds, ideas, and talents.
 
-We’re dedicated to advancing carbon-neutral, sustainable energy solutions for homes. Our mission is to foster the development of a collection of relevant data, technology solutions, tools, processes, hardware and software that will be open-source and available to any individual, company, organization, school or foundation who wishes to use these tools to further the goal of reducing carbon emissions or to explore learning, creativity, research or education relating to climate change. The Climate Cooperative is the platform to unite everyone—regardless of origin, belief, or experience—in making a significant, positive impact on our planet. 
+## **Our Mission**
+
+In particular, this project is dedicated to advancing carbon-neutral, sustainable energy solutions for homes. Residential energy use is estimated to account for [20% of all green house gas emissions in the US](https://www.pnas.org/doi/10.1073/pnas.1922205117). To meet the targets set by the Paris Climate Agreement—a 45% emissions reduction by 2030 and reaching net zero by 2050—eliminating these residential energy emissions will be crcuial. And because home appliances often have lifespans of decades, this residential technology transition needs to begin immediately.
+
+We believe that the technology exists today for the residential sector to meet those benchmarks on time, but several obstacles stand in the way of that transition. We have identified 3 major obstacles that we believe must be addressed to acheive those goals in time:
+1. Education - People don't know what impact their home has on carbon emissions, and they're not aware of the choices they can make to change that.
+2. "The Green Premium" - Upgrading to electric and energy efficient alternatives often cost significantly more than like-for-like replacements of old technology.
+3. Workforce - Installation of newer technologies often requires special training and there are not currently enough trained installers to meet the hypothetical demands of a worldwide residential energy transition over the next decade.
+
+Through the climate cooperative, we aim to unite brilliant and passionate individuals from varying domains and backgrounds to collaborate on solutions to these problems.
+
+Our mission is to foster the development of a collection of relevant data, technology solutions, tools, processes, hardware and software that will be open-source and available to any individual, company, organization, school or foundation who wishes to use these tools to further the goal of reducing carbon emissions or to explore learning, creativity, research or education relating to climate change. The Climate Cooperative is the platform to unite everyone—regardless of origin, belief, or experience—in making a significant, positive impact on our planet. 
 
 We firmly believe that the solutions to our shared future on this planet should also be shared and available to anyone or any group with the ingenuity, creativity and drive to improve them. Let’s succeed together.
 
