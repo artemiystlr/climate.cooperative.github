@@ -47,7 +47,7 @@ We're just beginning to build our community, but we envision it becoming a vibra
 - **Home Energy Audit & Recommendations:** This software tool provides precise recommendations for products, detailing applicable incentives and tax rebates to encourage energy-efficient upgrades. It's designed to simplify the process of making homes more energy-efficient by providing tailored advice and financial benefits information.
 
 > [!NOTE]
-> Our goal is to develop solutions to support the transition to net zero carbon emissions from home energy consumption. There may be—and almost certainly are—many more great ideas not yet listed here. If you've got an idea for a software application to contribute to the goal, share it in [Dicussions](https://github.com/orgs/climate-cooperative/discussions)!
+> Our goal is to develop solutions to support the transition to net zero carbon emissions from home energy consumption. There may be—and almost certainly are—many more great ideas not yet listed here. If you've got an idea for a software application that can make an impact on that goal, start a conversation in [Dicussions](https://github.com/orgs/climate-cooperative/discussions)!
 
 ### **Leadership and Maintenance**
 
