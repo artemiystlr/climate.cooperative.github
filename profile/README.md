@@ -30,7 +30,8 @@ We're just beginning to build our community, but we envision it becoming a vibra
 - **Share Your Ideas**: Have a vision for new collaborations, features, or ways to improve our project? We're all ears!
 - **Join the Conversation**: Participate in discussions, share your experiences, and connect with like-minded individuals dedicated to our cause.
 
-Check out the projects already attached below for specific ways to contribute!
+> [!TIP]
+> Check out the projects already attached below for specific ways to contribute!
 
 ### **Current Projects & Applications**
 
