@@ -42,9 +42,9 @@ We're just beginning to build our community, but we envision it becoming a vibra
 
 - **Home Appliances & Mechanical Systems Database:** This module allows consumers to upload appliance information into a home profile simply by taking a picture, supported by a comprehensive database detailing appliance lifespan. It includes a recommendation system that suggests the best products based on remaining useful life, retrofit practicality, and cost-effective CO2 reduction, alongside features for managing home profiles.
 
-- **Home Energy Audit & Recommendations:** This software tool provides precise recommendations for products, detailing applicable incentives and tax rebates to encourage energy-efficient upgrades. It's designed to simplify the process of making homes more energy-efficient by providing tailored advice and financial benefits information.
-
 - **Home Energy Contractor Database:** The Home Energy Contractor Database offers a comprehensive platform for contractors, featuring profile pages, a search function, and an aggregation of reviews. Contractors can manage their profiles, showcasing pictures, logos, descriptions, hours, contact details, and licensing information, enhancing visibility and trust with potential customers.
+
+- **Home Energy Audit & Recommendations:** This software tool provides precise recommendations for products, detailing applicable incentives and tax rebates to encourage energy-efficient upgrades. It's designed to simplify the process of making homes more energy-efficient by providing tailored advice and financial benefits information.
 
 > [!NOTE]
 > Our goal is to develop solutions to support the transition to net zero carbon emissions from home energy consumption. There may be—and almost certainly are—many more great ideas not yet listed here. If you've got an idea for a software application to contribute to the goal, share it in [Dicussions](https://github.com/orgs/climate-cooperative/discussions)!
