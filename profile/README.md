@@ -44,6 +44,10 @@ We believe in continuous improvement, learning and the power of collective effor
 
 - **[Home Energy Assessment Database & API](https://github.com/Zwell-Home/home-energy-assessment-database)**: The Home Energy Assessment Database & API consolidates diverse data into a unified platform for accurately calculating home carbon footprints, considering factors like local energy grids, local climate, and home appliances and attributes. A live proof-of-concept application can be found here: **[Home Energy Audit](https://zwellhome.com/)**. The database and API aim to provide crucial data for energy savings tools, detailed analyses, and visualizations, empowering stakeholders to reduce residential energy consumption and promote sustainable solutions.
 
+- **[HVAC CO2 & Savings Calculator](https://github.com/climate-cooperative/hvac-savings-calculator)**: A fast, easy-to-use web app calculator that allows users to plug in basic details about their home and their heating and coolings systems and get immediate estimates of the carbon emissions of those systems, as well as recommendations for both reduced emissions and reduced energy costs.
+
+- **[Water Heating CO2 & Cost Calculator](https://github.com/climate-cooperative/heat-pump-water-heater-savings-calculator)**: A fast, easy-to-use web app calculator that allows users to plug in basic details about their home and their water heating systems and get immediate estimates of the carbon emissions of their home’s water heating, as well as recommendations for both reduced emissions and reduced energy costs.
+
 ### **New Ideas and Project Proposals**
 
 > [!IMPORTANT]
