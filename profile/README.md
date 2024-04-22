@@ -33,7 +33,17 @@ We're just beginning to build our community, but we envision it becoming a vibra
 > [!TIP]
 > Check out the projects listed below for specific ways to start contributing!
 
-### **Current Projects & Applications**
+### **Leadership and Maintenance**
+
+In the spirit of open source and community-driven development, we welcome contributors who wish to take on leadership roles. Whether you're reviewing pull requests, managing issues, or guiding newcomers, your efforts help us maintain the quality and integrity of our project. As our community grows, so will opportunities for you to become a maintainer or even join our core leadership team.
+
+### **Learning and Growth**
+
+We believe in the continuous growth of our community members. Whether you're a seasoned professional or new to the world of sustainable energy solutions, Zwell offers resources to enhance your skills and knowledge. Stay tuned for webinars, workshops, and educational materials designed to empower you.
+
+## **Projects & Applications**
+
+### **In Development**
 
 - **[Home Energy Assessment Database & API](https://github.com/Zwell-Home/home-energy-assessment-database)**: The Home Energy Assessment Database & API consolidates diverse data into a unified platform for accurately calculating home carbon footprints, considering factors like local energy grids, local climate, and home appliances and attributes. A live proof-of-concept application can be found here: **[Home Energy Audit](https://zwellhome.com/)**. The database and API aim to provide crucial data for energy savings tools, detailed analyses, and visualizations, empowering stakeholders to reduce residential energy consumption and promote sustainable solutions.
 
@@ -44,14 +54,6 @@ We're just beginning to build our community, but we envision it becoming a vibra
 
 Our goal is to develop solutions to support the transition to net zero carbon emissions from home energy consumption. There may be—and almost certainly are—many more great ideas not yet proposed here. If you've got an idea for a software application that could make an impact on that goal, post in [Dicussions](https://github.com/orgs/climate-cooperative/discussions) and let's start a conversation!
 
-
-### **Leadership and Maintenance**
-
-In the spirit of open source and community-driven development, we welcome contributors who wish to take on leadership roles. Whether you're reviewing pull requests, managing issues, or guiding newcomers, your efforts help us maintain the quality and integrity of our project. As our community grows, so will opportunities for you to become a maintainer or even join our core leadership team.
-
-### **Learning and Growth**
-
-We believe in the continuous growth of our community members. Whether you're a seasoned professional or new to the world of sustainable energy solutions, Zwell offers resources to enhance your skills and knowledge. Stay tuned for webinars, workshops, and educational materials designed to empower you.
 
 ## **Stay Connected**
 
