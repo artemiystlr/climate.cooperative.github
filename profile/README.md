@@ -2,7 +2,7 @@
 
 The Climate Cooperative open source project is more than just software; it's a movement! We believe in the power of collaboration to tackle the monumental challenge of climate change. No single person, organization, or country can solve this crisis alone. It demands a global community of diverse backgrounds, ideas, and talents.
 
-## **Our Mission**
+## **Mission**
 
 In particular, this project is dedicated to advancing carbon-neutral, sustainable energy solutions for homes. Residential energy use is estimated to account for [20% of all greenhouse gas emissions in the US](https://www.pnas.org/doi/10.1073/pnas.1922205117). To meet the targets set by the Paris Climate Agreement—a 45% emissions reduction by 2030 and reaching net zero by 2050—eliminating these residential energy emissions will be crucial. And because home appliances often have lifespans of decades, this residential technology transition needs to begin immediately.
 
@@ -18,28 +18,24 @@ Our mission is to foster the development of a collection of relevant data, techn
 We firmly believe that the solutions to our shared future on this planet should also be shared and available to anyone or any group with the ingenuity, creativity and drive to improve them. Let’s succeed together.
 
 
-## **Our Community**
+## **Community**
 
 We're just beginning to build our community, but we envision it becoming a vibrant and diverse hub of individuals who are deeply committed to fighting climate change. As a member of the Climate Cooperative, you'll have the chance to work alongside other dedicated and skilled individuals to pioneer the future of clean energy. Together, let’s create a dynamic resource of rich, educational, and useful software tools that anyone can use and enhance to reduce residential carbon emissions. Join us in making a real difference!
 
-### **How You Can Contribute**
+### **Contribute**
 
 - **Contribute to the Code**: Help us develop innovative solutions or improve existing ones to make the project's tools more effective and user-friendly.
 - **Report an Issue**: Found a glitch? Let us know! Your feedback is vital in helping us improve.
 - **Enhance Documentation**: Whether you're a developer or an end-user, your insights can make our documentation clearer and more comprehensive.
-- **Share Your Ideas**: Have a vision for new collaborations, features, or ways to improve our project? We're all ears!
-- **Join the Conversation**: Participate in discussions, share your experiences, and connect with like-minded individuals dedicated to our cause.
+- **Share Ideas**: Have a vision for new collaborations, features, or ways to improve our project? Add it to the repository!
+- **Join the Conversation**: Participate in discussions, share your experiences, and connect with like-minded individuals dedicated to the transformation of residential home energy.
 
 > [!TIP]
 > Check out the projects listed below for specific ways to start contributing!
 
-### **Leadership and Maintenance**
-
-In the spirit of open source and community-driven development, we welcome contributors who wish to take on leadership roles. Whether you're reviewing pull requests, managing issues, or guiding newcomers, your efforts help us maintain the quality and integrity of our project. As our community grows, so will opportunities for you to become a maintainer or even join our core leadership team.
-
 ### **Learning and Growth**
 
-We believe in the continuous growth of our community members. Whether you're a seasoned professional or new to the world of sustainable energy solutions, the Climate Cooperative seeks to provide resources to enhance your skills and knowledge. Stay tuned for webinars, workshops, and educational materials designed to empower you.
+We believe in continuous improvement, learning and the power of collective effort to see large impact. This collection of software will grow and improve through ongoing collaboration and incremental improvement, so too will the skills of everyone involved: programmers, designers, and change-makers. 
 
 
 ## **Projects & Applications**
@@ -53,12 +49,12 @@ We believe in the continuous growth of our community members. Whether you're a s
 > [!IMPORTANT]
 > Check out the [Ideas](https://github.com/orgs/climate-cooperative/discussions/categories/ideas) on our Discussions page to propose a new idea (or review the community's latest ideas and find a project that inspires you)!
 
-Our goal is to develop solutions to support the transition to net zero carbon emissions from home energy consumption. There may be—and almost certainly are—many more great ideas not yet proposed here. If you've got an idea for a software application that could make an impact on that goal, make a new post in [Ideas](https://github.com/orgs/climate-cooperative/discussions/categories/ideas) and let's get our community talking about it!
+The goal is to develop solutions to support the transition to net zero carbon emissions from home energy consumption. There may be—and almost certainly are—many more great ideas not yet proposed here. If you've got an idea for a software application that could make an impact on that goal, make a new post in [Ideas](https://github.com/orgs/climate-cooperative/discussions/categories/ideas) and let's get the community talking about it!
 
 
 ## **Stay Connected**
 
-We're just getting started, and your input is invaluable in shaping the future of the Climate Cooperative. Connect with us through our forthcoming community platforms, such as forums, social media, and direct channels for communication. Your voice matters, and together, we can make a difference in the fight against climate change.
+This movement is just getting started, and your input is invaluable in shaping the future of the Climate Cooperative. Connect with us through our forthcoming community platforms, such as forums, social media, and direct channels for communication. Your voice matters, and together, we can make a difference in the fight against climate change.
 
 ## **Code of Conduct & Core Values**
 
@@ -73,9 +69,9 @@ Our journey towards a sustainable future is paved with innovation, collaboration
 - **Sustainability and Freedom:** Our efforts are geared towards creating sustainable solutions that endure over time, ensuring that our contributions remain valuable for future generations while upholding the principles of freedom and open access.
 - **Security and Trust:** Recognizing the importance of trust in our community, we prioritize the security and reliability of our work, striving to create a safe and supportive environment for all contributors.
 
-## **Join Us**
+## **Join the Movement**
 
-Your contribution is a step towards a more sustainable future for all. By joining us, you become part of a global community united in the urgent mission to combat climate change. Together, we can create innovative solutions that not only address environmental challenges but also promote equity, inclusivity, and ethical responsibility.
+Every contribution is a step towards a more sustainable future for all. By contributing to the Climate Cooperative, you become part of a global community united in the urgent mission to combat climate change. Together, we can create innovative solutions that not only address environmental challenges but also promote equity, inclusivity, and ethical responsibility.
 
 Let's build a cleaner, greener world together. Welcome to The Climate Cooperative.
 
