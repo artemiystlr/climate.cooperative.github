@@ -1,6 +1,6 @@
 # Welcome to the Climate Cooperative
 
-The Climate Cooperative open source project  is more than just software; it's a movement! We believe in the power of collaboration to tackle the monumental challenge of climate change. No single person, organization, or country can solve this crisis alone—it demands a global community of diverse backgrounds, ideas, and talents.
+The Climate Cooperative open source project is more than just software—it's a movement! We believe in the power of collaboration to tackle the monumental challenge of climate change. No single person, organization, or country can solve this crisis alone. It demands a global community of diverse backgrounds, ideas, and talents.
 
 We’re dedicated to advancing carbon-neutral, sustainable energy solutions for homes. Our mission is to foster the development of a collection of relevant data, technology solutions, tools, processes, hardware and software that will be open-source and available to any individual, company, organization, school or foundation who wishes to use these tools to further the goal of reducing carbon emissions or to explore learning, creativity, research or education relating to climate change. The Climate Cooperative is the platform to unite everyone—regardless of origin, belief, or experience—in making a significant, positive impact on our planet. 
 
