@@ -31,7 +31,7 @@ We're just beginning to build our community, but we envision it becoming a vibra
 - **Join the Conversation**: Participate in discussions, share your experiences, and connect with like-minded individuals dedicated to our cause.
 
 > [!TIP]
-> Check out the projects already attached below for specific ways to contribute!
+> Check out the projects listed below for specific ways to start contributing!
 
 ### **Current Projects & Applications**
 
