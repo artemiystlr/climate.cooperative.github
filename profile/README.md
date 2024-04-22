@@ -42,7 +42,7 @@ We're just beginning to build our community, but we envision it becoming a vibra
 > [!IMPORTANT]
 > Check out [Dicussions](https://github.com/orgs/climate-cooperative/discussions) to propose a new idea (or review the community's ideas and find a project that inspires you)!
 
-Our goal is to develop solutions to support the transition to net zero carbon emissions from home energy consumption. There may be—and almost certainly are—many more great ideas not yet proposed here. If you've got an idea for a software application that could make an impact on that goal, let's start a conversation!
+Our goal is to develop solutions to support the transition to net zero carbon emissions from home energy consumption. There may be—and almost certainly are—many more great ideas not yet proposed here. If you've got an idea for a software application that could make an impact on that goal, post in [Dicussions](https://github.com/orgs/climate-cooperative/discussions) and let's start a conversation!
 
 
 ### **Leadership and Maintenance**
