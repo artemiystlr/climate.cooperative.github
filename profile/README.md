@@ -4,14 +4,14 @@ The Climate Cooperative open source project is more than just software; it's a m
 
 ## **Our Mission**
 
-In particular, this project is dedicated to advancing carbon-neutral, sustainable energy solutions for homes. Residential energy use is estimated to account for [20% of all green house gas emissions in the US](https://www.pnas.org/doi/10.1073/pnas.1922205117). To meet the targets set by the Paris Climate Agreement—a 45% emissions reduction by 2030 and reaching net zero by 2050—eliminating these residential energy emissions will be crucial. And because home appliances often have lifespans of decades, this residential technology transition needs to begin immediately.
+In particular, this project is dedicated to advancing carbon-neutral, sustainable energy solutions for homes. Residential energy use is estimated to account for [20% of all greenhouse gas emissions in the US](https://www.pnas.org/doi/10.1073/pnas.1922205117). To meet the targets set by the Paris Climate Agreement—a 45% emissions reduction by 2030 and reaching net zero by 2050—eliminating these residential energy emissions will be crucial. And because home appliances often have lifespans of decades, this residential technology transition needs to begin immediately.
 
-We believe that the technology exists today for the residential sector to meet those benchmarks on time, but several obstacles stand in the way of that transition. We have identified 3 major obstacles that we believe must be addressed to acheive those goals in time:
-1. **Education** - Many don't know what impact their home has on carbon emissions, and even those that are may not be aware of the choices they can make to change that.
+We believe that the technology exists today for the residential sector to meet those benchmarks on time, but several obstacles stand in the way of that transition. We have identified 3 major obstacles that we believe must be addressed to achieve those goals in time:
+1. **Education** - Many are unaware of their home's impact on carbon emissions, and even those who are aware may not know the choices available to reduce that impact.
 2. **"The Green Premium"** - Upgrading to electric and energy efficient alternatives often costs significantly more than like-for-like replacements of old appliances, which discourages adoption of cleaner technologies.
-3. **Workforce** - Installation of newer appliances often requires special training and there are not currently enough trained installers to meet the hypothetical demands of a worldwide residential energy transition over the next decade.
+3. **Workforce** - Installation of newer appliances often requires special training and there currently are not enough trained installers to meet the hypothetical demands of a worldwide residential energy transition over the next decade.
 
-Through the climate cooperative, we aim to unite brilliant and passionate individuals from varying domains and backgrounds to collaborate on solutions to these problems.
+Through the Climate Cooperative, we aim to unite brilliant and passionate individuals from varying domains and backgrounds to collaborate on solutions to these problems and more.
 
 Our mission is to foster the development of a collection of relevant data, technology solutions, tools, processes, hardware and software that will be open-source and available to any individual, company, organization, school or foundation who wishes to use these tools to further the goal of reducing carbon emissions or to explore learning, creativity, research or education relating to climate change. The Climate Cooperative is the platform to unite everyone—regardless of origin, belief, or experience—in making a significant, positive impact on our planet. 
 
