@@ -9,7 +9,7 @@ In particular, this project is dedicated to advancing carbon-neutral, sustainabl
 We believe that the technology exists today for the residential sector to meet those benchmarks on time, but several obstacles stand in the way of that transition. We have identified 3 major obstacles that we believe must be addressed to achieve those goals in time:
 1. **Education** - Many are unaware of their home's impact on carbon emissions, and even those who are aware may not know the choices available to reduce that impact.
 2. **"The Green Premium"** - Upgrading to electric and energy efficient alternatives often costs significantly more than like-for-like replacements of old appliances, which discourages adoption of cleaner technologies.
-3. **Workforce** - Installation of newer appliances often requires special training and there currently are not enough trained installers to meet the hypothetical demands of a worldwide residential energy transition over the next decade.
+3. **Workforce** - Installation of newer appliances often requires special training and there currently are not enough trained installers to meet the demands of a worldwide residential energy transition over the next decade.
 
 Through the Climate Cooperative, we aim to unite brilliant and passionate individuals from varying domains and backgrounds to collaborate on solutions to these problems and more.
 
