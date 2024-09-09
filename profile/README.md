@@ -1,4 +1,4 @@
-# Welcome to the Climate Cooperative
+# Welcome to the Climate Cooperative [![](https://img.shields.io/badge/discord-8A2BE2)](https://discord.com/channels/1234653337547440190)
 
 The Climate Cooperative open source project is more than just software; it's a movement! We believe in the power of collaboration to tackle the monumental challenge of climate change. No single person, organization, or country can solve this crisis alone. It demands a global community of diverse backgrounds, ideas, and talents.
 
