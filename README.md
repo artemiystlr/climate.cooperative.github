@@ -27,8 +27,8 @@ The Climate Cooperative open source project is more than just software - it's a 
 - [Community](#community)
 - [Projects & Applications](#projects-and-applications)
 - [Contribute](#contribute)
-- [Join the Movement](#join-the-movement)
 - [Code of Conduct & Core Values](#code-of-conduct-and-core-values)
+- [Join the Movement](#join-the-movement)
 
 ## **Mission**
 
@@ -83,12 +83,6 @@ The goal is to develop solutions to support the transition to net zero carbon em
 > [!TIP]
 > Check out the projects listed below for specific ways to start contributing!
 
-## **Join the Movement**
-
-Every contribution, large or small, drives us closer to a sustainable future. By joining the Climate Cooperative, you become part of a global mission to combat climate change through innovation, collaboration, and ethical responsibility.
-
-**Together, we can build a cleaner, greener world. Welcome to the Climate Cooperative.**
-
 ## **Code of Conduct and Core Values**
 
 Our journey towards a sustainable future is paved with innovation, collaboration, and a commitment to our core values. Whether you’re contributing through coding, writing, designing, or simply spreading the word—we urge you to familiarize yourself with our Code of Conduct. This reflects our dedication to fostering an open, inclusive, and respectful community, ensuring that everyone, regardless of background or experience, can contribute to making a significant, positive impact on our planet.
@@ -101,3 +95,9 @@ Our journey towards a sustainable future is paved with innovation, collaboration
 - **Continuous Improvement and Innovation:** In the rapidly evolving field of climate science and technology, we embrace continuous learning and innovation. We are always on the lookout for better, more effective ways to meet our goals.
 - **Sustainability and Freedom:** Our efforts are geared towards creating sustainable solutions that endure over time, ensuring that our contributions remain valuable for future generations while upholding the principles of freedom and open access.
 - **Security and Trust:** Recognizing the importance of trust in our community, we prioritize the security and reliability of our work, striving to create a safe and supportive environment for all contributors.
+
+## **Join the Movement**
+
+Every contribution, large or small, drives us closer to a sustainable future. By joining the Climate Cooperative, you become part of a global mission to combat climate change through innovation, collaboration, and ethical responsibility.
+
+**Together, we can build a cleaner, greener world. Welcome to the Climate Cooperative.**
