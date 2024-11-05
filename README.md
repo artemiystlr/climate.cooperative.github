@@ -1,18 +1,19 @@
 <p align="center">
-    <img src="https://github.com/artemiystlr/climate.cooperative.github/blob/main/images/cc_readme_banner.png?raw=true">
+    <img src="https://github.com/climate-cooperative/.github/blob/main/images/cc_readme_banner.png?raw=true">
   </a>
 </p>
 
 <p align="center">
   Advancing carbon-neutral, sustainable energy solutions for homes.
   <br>
-  <a href="#projects-&-applications"><strong>Explore Project & Applications »</strong></a>
+  <a href="#projects-and-applications"><strong>Explore Project & Applications »</strong></a>
   <br>
   <br>
   <a href="https://github.com/climate-cooperative/.github/issues/new/">Report an Issue</a>
   ·
   <a href="https://github.com/climate-cooperative/.github/issues/new/">Submit an Idea</a>
 </p>
+
 
 
 
@@ -24,10 +25,10 @@ The Climate Cooperative open source project is more than just software - it's a 
 
 - [Mission](#mission)
 - [Community](#community)
-- [Projects & Applications](#projects -&-applications)
+- [Projects and Applications](#projects-and-applications)
 - [Contribute](#contribute)
 - [Join the Movement](#join-the-movement)
-- [Code of Conduct & Core Values](#code-of-conduct-&-core-values)
+- [Code of Conduct and Core Values](#code-of-conduct-and-core-values)
 
 ## **Mission**
 
@@ -52,7 +53,7 @@ We're just beginning to build our community, but we envision it becoming a vibra
 **Join us on [Discord](https://discord.com/channels/1234653337547440190)** to connect, learn, and contribute.
 
 
-## **Projects & Applications**
+## **Projects and Applications**
 
 ### **In Development**
 
@@ -88,7 +89,7 @@ Every contribution, large or small, drives us closer to a sustainable future. By
 
 **Together, we can build a cleaner, greener world. Welcome to the Climate Cooperative.**
 
-## **Code of Conduct & Core Values**
+## **Code of Conduct and Core Values**
 
 Our journey towards a sustainable future is paved with innovation, collaboration, and a commitment to our core values. Whether you’re contributing through coding, writing, designing, or simply spreading the word—we urge you to familiarize yourself with our Code of Conduct. This reflects our dedication to fostering an open, inclusive, and respectful community, ensuring that everyone, regardless of background or experience, can contribute to making a significant, positive impact on our planet.
 
