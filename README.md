@@ -25,10 +25,10 @@ The Climate Cooperative open source project is more than just software - it's a 
 
 - [Mission](#mission)
 - [Community](#community)
-- [Projects and Applications](#projects-and-applications)
+- [Projects & Applications](#projects-and-applications)
 - [Contribute](#contribute)
 - [Join the Movement](#join-the-movement)
-- [Code of Conduct and Core Values](#code-of-conduct-and-core-values)
+- [Code of Conduct & Core Values](#code-of-conduct-and-core-values)
 
 ## **Mission**
 
